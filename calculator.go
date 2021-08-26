@@ -11,6 +11,6 @@ func Subtract(x, y int) int {
 	return x - y
 }
 
-funcMultiply(x, y int) int{
+func Multiply(x, y int) int{
 	return x * y
 }
